@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="5395d4f0-2bd1-4305-9e65-edee7badea02" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/config/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,8 +36,9 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/HumorBoard/templates/HumorBoard" />
+      <recent name="$PROJECT_DIR$/config" />
       <recent name="$PROJECT_DIR$/HumorBoard" />
+      <recent name="$PROJECT_DIR$/HumorBoard/templates/HumorBoard" />
     </key>
   </component>
   <component name="ServiceViewManager">
@@ -80,10 +83,10 @@
       <screen x="0" y="23" width="1680" height="982" />
     </state>
     <state x="340" y="152" key="SettingsEditor/0.23.1680.982@0.23.1680.982" timestamp="1579688951886" />
-    <state x="494" y="371" key="com.intellij.ide.util.TipDialog" timestamp="1580303329026">
+    <state x="494" y="371" key="com.intellij.ide.util.TipDialog" timestamp="1581060848479">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state x="494" y="371" key="com.intellij.ide.util.TipDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1580303329026" />
+    <state x="494" y="371" key="com.intellij.ide.util.TipDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1581060848479" />
     <state x="495" y="165" width="689" height="741" key="find.popup" timestamp="1580303358561">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
